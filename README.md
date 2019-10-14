@@ -1,0 +1,2 @@
+# exercises
+beginner exercises
